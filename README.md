@@ -60,6 +60,7 @@ Currently, ft_printf does not handle floating point numbers or wide characters. 
 
 ## Contributors
 - [mdenesfe](https://github.com/mdenesfe)
+- [byalcinkaya](https://github.com/byalcinkaya)
 
 ## Conclusion
 
