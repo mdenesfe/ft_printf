@@ -1,6 +1,6 @@
 # ft_printf
 
-My post about ft_printf (https://medium.com/@mdenesfe/understanding-the-inner-workings-of-printf-a-deep-dive-into-the-ft-printf-project-6000a2276d82)
+My post about [ft_printf] (https://medium.com/@mdenesfe/understanding-the-inner-workings-of-printf-a-deep-dive-into-the-ft-printf-project-6000a2276d82)
 
 ft_printf is a recreation of the C library function printf. The goal of this project was to understand the inner workings of the printf function and create a similar function from scratch. The function takes a string and a list of arguments and prints them to the standard output. The code includes several helper functions such as ft_putchar, ft_putstr, ft_putnbr, ft_putadd and ft_putnbr_hex.
 
